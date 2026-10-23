@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540891354796",
+    "firebase_url": "https://carvix-35e7a-default-rtdb.firebaseio.com",
+    "project_id": "carvix-35e7a",
+    "storage_bucket": "carvix-35e7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540891354796:android:8ae4e4e2b40959a5f0f109",
+        "android_client_info": {
+          "package_name": "com.example.car_market_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540891354796-6s8ggf9oa8m93p7dd8sirsmbt4qtd43a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_market_app",
+            "certificate_hash": "24f4fdea4a4b46e979549c3a1ab80a1a8e0ae9b6"
+          }
+        },
+        {
+          "client_id": "540891354796-31cq0690glv0m0l922r072td144ro3fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYnQq5PzefG_CKiKdINEP2wUfwNUlMD0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540891354796-31cq0690glv0m0l922r072td144ro3fs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540891354796-lck5glq4o8f7vugue050taie5v9ubqts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carMarketApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
